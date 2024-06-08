@@ -1,1 +1,3 @@
- console.log("Hola");
+const saludarALosAlumnos =()=>{
+    return "hola";
+}
