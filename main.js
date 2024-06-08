@@ -1,5 +1,5 @@
 const saludarALosAlumnos =()=>{
-    return "hola";
+  return "Hola desde la funcion"
 }
 
 const texto= saludarALosAlumnos();
