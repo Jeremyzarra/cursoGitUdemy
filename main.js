@@ -4,3 +4,4 @@ const saludarALosAlumnos =()=>{
 
 const texto= saludarALosAlumnos();
 console.log(texto);
+console.log("Nueva forma de mostrar el texto") 
